@@ -180,7 +180,6 @@ def menu_principal():
         else:
             print("Opcion no reconocida.")
 
-
 # Ejecutar el programa
 if _name_ == "_main_":
     menu_principal()
